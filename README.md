@@ -7,7 +7,7 @@ it reboots ur phone to the bootloader after 4 attempts to prevent it rebooting i
 
 ### How To use it
 1. Compile the .C file
-    1. `gcc source.c -o exec`
+    1. `gcc huawei_bootloader_unlocker.c -o exec`
     2. `chmod +x exec`
 2. Install Android Developer Tools
 3. Enable USB Debug on your device
